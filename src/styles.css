@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .box {
+    color: lightgray;
+    border: 1px solid black;
+    padding: 1rem;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    margin: 1rem auto 1rem auto;
+  }
+  
+  li {
+    margin-bottom: 1rem;
+  }
+  
+  .instruction-area {
+    text-align: left;
+  }
+  
+  button {
+    display: block;
+    margin: 1rem auto 1rem auto;
+  }
+  
